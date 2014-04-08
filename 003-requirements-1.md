@@ -2,7 +2,10 @@
 
 Team Name (TBA)
 
-Gavin Chen, Katarzyna Dushkina, Priya Kaur, Jeff Couzin
+Jeffrey Fellows, Rebecka Goncharov, Ronnie Nguyen, Bradley Cruce,John Delshadi, Steven Ov
+
+##INSTRUCTIONS##
+The file should have three sections. The first section should be called “Assumptions.” The second should be called “Functional requirements.” The third should be called “Non-functional requirements.” The document should be no more than 1000 words. Write your “assumptions” section last. The document will be graded on how comprehensively and clearly it specifies what your system must do.
 
 ## Assumptions
 
