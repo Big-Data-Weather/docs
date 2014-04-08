@@ -1,9 +1,14 @@
 # What we are building and why
 
-Team Sqr.ly
+Team Name (TBA)
 
 Jeffrey Fellows, Rebecka Goncharov, Ronnie Nguyen, Bradley Cruce,John Delshadi, Steven Ov
 
+##INSTRUCTIONS##
+ In the first section, describe what the software you are building will do in as much detail as you can. Do not describe how it will do it. Describe your software as a nontechnical but expert user would describe it. If there are different user groups (e.g., end users and administrators), describe how different kinds of users will interact with your software.
+     In the second section, describe why you are building it. Who wants this and why? If the software proposal arose in response to a specific perceived problem or opportunity (which it probably did), describe the problem or opportunity and how the software addresses it. If different kinds of users will interact with your software, how will it make the life of each kind of user better?
+     The whole document should be no more than 600 words.
+     
 ## What we are building
 
 We are building a "squirrel". The squirrel will be a small, omnivorous, mostly tree-dwelling mammal. It will be 10 inches long, with an 8-inch tail. It will be covered in short gray-brown fur. The tail will be very bushy. The squirrel will have big black eyes and little rounded ears that stick up. It will walk on four feet. It will be able to climb up and down trees with ease. It will eat mostly seeds and nuts, but it will be able to eat all kinds of plant matter. It will also be able to eat insects, bird eggs, small birds, and M&Ms when plant matter is hard to find. As a result, it will thrive in cities.
