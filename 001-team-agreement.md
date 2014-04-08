@@ -4,9 +4,8 @@ Team Name (TBA)
 
 Jeffrey Fellows, Rebecka Goncharov, Ronnie Nguyen, Bradley Cruce,John Delshadi, Steven Ov
 
-##START INSTRUCTIONS##
+##INSTRUCTIONS##
  the text under “Weekly meeting” with your weekly group meeting time and place; the text under “Co-working times” with your weekly co-working time and place information. Co-working times should add up to 15 hours per week per person outside lecture and discussion; and the text under “File management” with information relevant to your team. You may leave the text under “Miscellaneous” as is, or change it as you like.
-###END INSTRUCTIONS###
 
 ## Weekly meeting
 
