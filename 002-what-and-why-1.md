@@ -2,7 +2,7 @@
 
 Team Sqr.ly
 
-Alice Lee, Brian Smith, Carol Williams, Derek Chen
+Jeffrey Fellows, Rebecka Goncharov, Ronnie Nguyen, Bradley Cruce,John Delshadi, Steven Ov
 
 ## What we are building
 
