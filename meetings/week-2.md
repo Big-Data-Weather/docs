@@ -2,7 +2,10 @@
 
 Team Name (TBA)
 
-Gavin Chen, Katarzyna Dushkina, Priya Kaur, Jeff Couzin
+Jeffrey Fellows, Rebecka Goncharov, Ronnie Nguyen, Bradley Cruce,John Delshadi, Steven Ov
+
+##INSTRUCTIONS##
+Follow the format presented in this file. The “Other notes” section is optional.
 
 ## Present at meeting
 
@@ -13,7 +16,7 @@ Jeff Smith, Assistant to the CEO, Sqrls-R-Us
 
 ### Team
 
-Gavin Chen, Katarzyna Dushkina, Priya Kaur, Jeff Couzin
+Jeffrey Fellows, Rebecka Goncharov, Ronnie Nguyen, Bradley Cruce,John Delshadi, Steven Ov
 
 ## Time and place
 
