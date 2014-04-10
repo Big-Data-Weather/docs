@@ -4,15 +4,12 @@ Quotaero
 
 Jeffrey Fellows, Rebecka Goncharov, Ronnie Nguyen, Bradley Cruce,John Delshadi, Steven Ov
 
-##INSTRUCTIONS##
-Follow the format presented in this file. The “Other notes” section is optional.
-
 ## Present at meeting
+Jeffrey Fellows, Rebecka Goncharov, Ronnie Nguyen, Bradley Cruce,John Delshadi, Steven Ov, Stew Sutton
 
 ### Sponsors
 
-Kayla James, CEO, Sqrls-R-Us  
-Jeff Smith, Assistant to the CEO, Sqrls-R-Us
+Stew Sutton, Principal Scientist IT Innovation, The Aerospace Corporation   
 
 ### Team
 
@@ -20,13 +17,13 @@ Jeffrey Fellows, Rebecka Goncharov, Ronnie Nguyen, Bradley Cruce,John Delshadi, 
 
 ## Time and place
 
-Offices of Sqrls-R-Us, Irvine, CA, Tue Apr 8, 11 AM
+Peet's Coffee & Tea, Irvine, CA, Thurs Apr 10, 4 PM
 
 ## Communication schedule
 
-We will meet Kayla and Jeff in person every Monday at Sqrls-R-Us at 12 PM.
+We will meet Stew in person every Thursday at (location) at 9:30 AM. *****
 
-We will also email them a report of what we have done in the last week, with relevant links to changes on the working application, every Sunday by 8 PM.
+We will also email them a report of what we have done in the last week, with relevant links to changes on the working application, every Sunday by 8 PM. ******
 
 ## Project goals
 
