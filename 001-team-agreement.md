@@ -1,42 +1,52 @@
 # Team communication and co-working agreement
 
-Team Name (TBA)
+Quotaero
 
 Jeffrey Fellows, Rebecka Goncharov, Ronnie Nguyen, Bradley Cruce,John Delshadi, Steven Ov
 
-##INSTRUCTIONS##
- the text under “Weekly meeting” with your weekly group meeting time and place; the text under “Co-working times” with your weekly co-working time and place information. Co-working times should add up to 15 hours per week per person outside lecture and discussion; and the text under “File management” with information relevant to your team. You may leave the text under “Miscellaneous” as is, or change it as you like.
+## Monthly meeting
+Tentative Monthly Meetings @ Aerospace Office: Mondays 8-1pm
 
 ## Weekly meeting
 
-Mondays, 10 AM, ICS 193
+Wendsday, 5PM-8PM, DBH 1500 
 
 ## Co-working times
 
 All co-working will be in ICS 193.
 
-Mondays  
-9 AM - 12 PM: all  
-12 PM - 3 PM: Alice, Brian
+Sunday
+10 AM - 4 PM: Jeff, John, Ronnie, Steven 
+5 PM - 9 PM: John, Rebecka, Ronnie, Steven 
+9 PM - 11 PM: Jeff, John, Rebecka, Ronnie
 
-Tuesdays  
-9 AM - 12 PM: Carol, Derek
+Mondays  
+11 AM - 3 PM: John, Rebecka, Ronnie 
+8 PM - 10 PM: Bradley, Jeff, John, Ronnie, Steven
 
 Wednesdays  
-10 AM - 2 PM: all
+11 AM - 1 PM: Bradley, Rebecka, Ronnie, Steven 
+5 PM - 10PM: All
+10 PM - 11PM: Jeff, John, Rebecka, Ronnie, Steven
+
+Thursday
+4 PM - 6 PM: Bradley, Jeff, John, Ronnie
+6 PM - 7 PM: All
+
+Friday
+10 AM - 330 PM: Jeff, John, Rebecka, Ronnie
+330 PM - 8PM: Jeff, John, Rebecka, Ronnie, Steven
 
 Saturdays  
-10 AM - 3 PM: all
+1 PM - 11 PM: all
 
 ## File management
 
 We will use Git and GitHub for file management.
 
-Specifically, we will keep all files in GitHub repositories owned by our organization, "sqrly".
+Specifically, we will keep all files in GitHub repositories owned by our organization, "TeamName(TBA)".
 
 We will keep documentation in the "docs" repository.
-
-We will keep code in two repositories, "anatomy" and "behavior". We will keep code about the squirrel's anatomy in the "anatomy" repository, and code about its behavior in the "behavior" repository.
 
 ## Miscellaneous
 
