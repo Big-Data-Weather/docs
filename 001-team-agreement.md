@@ -44,7 +44,7 @@ Saturdays
 
 We will use Git and GitHub for file management.
 
-Specifically, we will keep all files in GitHub repositories owned by our organization, "TeamName(TBA)".
+Specifically, we will keep all files in GitHub repositories owned by our organization, "Quotaero".
 
 We will keep documentation in the "docs" repository.
 
