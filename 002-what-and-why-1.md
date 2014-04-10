@@ -1,6 +1,6 @@
 # What we are building and why
 
-Team Name (TBA)
+Quotaero
 
 Jeffrey Fellows, Rebecka Goncharov, Ronnie Nguyen, Bradley Cruce,John Delshadi, Steven Ov
 

@@ -1,6 +1,6 @@
 # What this software must do
 
-Team Name (TBA)
+Quotaero
 
 Jeffrey Fellows, Rebecka Goncharov, Ronnie Nguyen, Bradley Cruce,John Delshadi, Steven Ov
 
