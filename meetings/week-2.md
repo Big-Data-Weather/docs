@@ -21,16 +21,17 @@ Peet's Coffee & Tea, Irvine, CA, Thurs Apr 10, 4 PM
 
 ## Communication schedule
 
-We will meet Stew in person every Thursday at (location) at 9:30 AM. *****
+We will meet Stew in person every Thursday at ICS 193 at 9:30 AM. 
 
-We will also email them a report of what we have done in the last week, with relevant links to changes on the working application, every Sunday by 8 PM. ******
+We will also meet with Stew and his team Monday 8:00 AM in El Segundo location whenever it is necessary.
+
 
 ## Project goals
 
-Our goal this quarter is to produce a working, live, "minimum viable" version of SimSquirrel. It should be deployed on a subdomain of Sqrls-R-Us's current website, simsquirrel.sqrlsrus.com.
+Our goal this quarter********
 
 ## Other notes
 
-Kayla will be out of town May 5 and May 12. We will meet with Jeff on those days. We will also email Kayla on the preceding Sundays as normal.
+Our team must become familiar with Pentaho data integration tool and explore the open source version. Stew would like us to practice extracting data from the NOAA Satellite Program before our next meeting on April 24. 
 
-Kayla will give us login information to the server that hosts sqrlsrus.com at our next meeting.
+Stew will be unavailable for meeting for next week.
