@@ -9,7 +9,7 @@ Tentative Monthly Meetings @ Aerospace Office: Mondays 8-1pm
 
 ## Weekly meeting
 
-Wednesday, 5PM-8PM, DBH 1500 
+Wednesday, 6:30PM-8PM, ICS 193 *Locations may vary
 
 ## Co-working times
 
@@ -38,7 +38,7 @@ Friday
 330 PM - 8PM: Jeff, John, Rebecka, Ronnie, Steven
 
 Saturdays  
-1 PM - 11 PM: all
+1 PM - 11 PM: ALL
 
 ## File management
 
