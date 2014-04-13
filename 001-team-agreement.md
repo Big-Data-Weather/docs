@@ -9,7 +9,7 @@ Tentative Monthly Meetings @ Aerospace Office: Mondays 8-1pm
 
 ## Weekly meeting
 
-Wendsday, 5PM-8PM, DBH 1500 
+Wednesday, 5PM-8PM, DBH 1500 
 
 ## Co-working times
 
