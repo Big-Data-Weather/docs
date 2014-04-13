@@ -2,27 +2,8 @@
 
 Quotaero
 
-Jeffrey Fellows, Rebecka Goncharov, Ronnie Nguyen, Bradley Cruce,John Delshadi, Steven Ov
-
-##INSTRUCTIONS##
- In the first section, describe what the software you are building will do in as much detail as you can. Do not describe how it will do it. Describe your software as a nontechnical but expert user would describe it. If there are different user groups (e.g., end users and administrators), describe how different kinds of users will interact with your software.
-     In the second section, describe why you are building it. Who wants this and why? If the software proposal arose in response to a specific perceived problem or opportunity (which it probably did), describe the problem or opportunity and how the software addresses it. If different kinds of users will interact with your software, how will it make the life of each kind of user better?
-     The whole document should be no more than 600 words.
-     
+Jeffrey Fellows, Rebecka Goncharov, Ronnie Nguyen, Bradley Cruce,John Delshadi, Steven Ov     
 ## What we are building
-
-We are building a "squirrel". The squirrel will be a small, omnivorous, mostly tree-dwelling mammal. It will be 10 inches long, with an 8-inch tail. It will be covered in short gray-brown fur. The tail will be very bushy. The squirrel will have big black eyes and little rounded ears that stick up. It will walk on four feet. It will be able to climb up and down trees with ease. It will eat mostly seeds and nuts, but it will be able to eat all kinds of plant matter. It will also be able to eat insects, bird eggs, small birds, and M&Ms when plant matter is hard to find. As a result, it will thrive in cities.
-
-It will be eaten by humans, birds of prey, larger carnivorous and omnivorous mammals such as raccoons and cats, and snakes. In human cooking, its meat will be an acceptable substitute for chicken but be slightly "gamey".
-
-Because it will eat mostly seeds and nuts, it will play an important role in distributing the seeds of trees.
-
+We are building and researching different pattern macros critical future weather research by the public and military sector by using big data tools in sync with visualization tools. In the end we will have a large quantity of documentation for research professions in the public and military sector to help them further their research progress.
 ## Why we are building it
-
-The squirrel addresses un- or under-met needs of three stakeholder groups: trees, medium-sized carnivores and omnivores in cities, and humans in cities.
-
-The squirrel meets an unmet seed distribution need for trees. There are currently two main classes of distributors of tree seeds: herbivorous birds and large mammals such as beavers and bears. Birds can move seeds large distances, but tend to be small and only eat a few seeds. Additionally, some seeds need to be distributed locally; far-ranging birds distribute seeds sparsely over a large area, rather than densely throughout the local area. Large mammals distribute seeds well locally, but prefer other food sources such as fish and fruit, and eat seeds only when their preferred food is scarce. In contrast, the squirrel is a seed and nut specialist. It travels extensively for a ground animal, but does not fly, addressing the need for denser local seed distribution.
-
-The squirrel meets an unmet food need for medium-sized urban carnivores and omnivores. Most medium-sized urban carnivores and omnivores feed mainly on discarded human food. Discarded human food poses three kinds of health risks to urban carnivores and omnivores. First, it may be toxic. Second, it may be mixed with dangerous non-food items such as plastics or metals. Third, it is easy to get, so urban carnivores and omnivores may live sedentary lifestyles. A small, nimble seed and nut specialist offers a high-quality food source and a great reason to stay active.
-
-The squirrel offers urban humans two kinds of benefits. First, as for non-human urban omnivores, it is a potentially high-quality, low-cost food source. Crucially, the squirrel will be small and has a low meat content compared to typical human meat sources such as chicken, pigs, and cattle. Squirrels are therefore unlikely to be produced in concentrated animal feeding operations (CAFOs), which would put its health and cost advantages as a human food source at risk. Second, the squirrel will be adorable, offering aesthetic benefits and hours of entertainment for humans. This will improve quality of life and boost tourism revenues.
+The Big Weather Data project addresses the needs for our stakeholder, because they need a good understanding of the combinations of tool that can be used to optimize and explore large amounts of weather data. The problem that the public and military sector have is that they have been obtaining their data by manually programming to obtain certain data results. But now with so many advanced tools out there they can now generating massive amount of macros and generate the results they need. Since there are so many tool they need to figure out which tools to optimally combine to achieve the intended result. Each different user that will use our research will have a better understanding of what tools to use for the result they are trying to obtain.
