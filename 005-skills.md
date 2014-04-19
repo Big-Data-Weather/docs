@@ -61,11 +61,9 @@ In your team’s docs repository, make a file called 005-skills.md. The file sho
      9. How will you communicate your learning to your team?
 
      1. What is your name? 
-
           Jeffrey Fellows
 
      2. In general, how well can you code? Pick one of “real good,” “pretty good,” “okay,” or “not at all.” 
-
           Pretty good.
 
      3. How many times before have you used the language(s) and/or framework(s) you are using in this project? For each language or framework, pick one of “lots and lots,” “a couple times,” “once,” “never,” or “I never even heard of this thing.”
