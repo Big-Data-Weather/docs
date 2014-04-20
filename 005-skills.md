@@ -1,8 +1,8 @@
 ##Tools/Skills needed for whole project (technical only):
-+We will need to know how to use Pentaho to integrate big data and evaluate the statistics and analytics of such data. 
-+We must learn how to create workflows in Pentaho using visual tools. 
-+We will need to use MongoDB and Hadoop to create list based data structures based on the big data. 
-+Mathematica and any other information visualization tools must also be learned to create visuals based on data.
+*We will need to know how to use Pentaho to integrate big data and evaluate the statistics and analytics of such data. 
+*We must learn how to create workflows in Pentaho using visual tools. 
+*We will need to use MongoDB and Hadoop to create list based data structures based on the big data. 
+*Mathematica and any other information visualization tools must also be learned to create visuals based on data.
 
 ##Individual Assessment
 
