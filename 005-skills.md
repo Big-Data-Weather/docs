@@ -1,5 +1,8 @@
 ##Tools/Skills needed for whole project (technical only):
-We will need to know how to use Pentaho, MongoDB, Hadoop, Mathematica
++We will need to know how to use Pentaho to integrate big data and evaluate the statistics and analytics of such data. 
++We must learn how to create workflows in Pentaho using visual tools. 
++We will need to use MongoDB and Hadoop to create list based data structures based on the big data. 
++Mathematica and any other information visualization tools must also be learned to create visuals based on data.
 
 ##Individual Assessment
 
@@ -46,9 +49,9 @@ We will need to know how to use Pentaho, MongoDB, Hadoop, Mathematica
      2. In general, how well can you code?
           Okay
      3. How many times before have you used tools you are using in this project? For each tool, pick one of “lots and lots,” “a couple times,” “once,” “never,” or “I never even heard of this thing.”
-          Once
+          Never
      4. To contribute fully to the project, what do you need to learn?
-          Mainly tools, High familiarity with Pentaho Data Integration, Database tools Mando DB and Hadoop. Later in the project, Mathematica, possibly Google Maps API and . 
+          Mainly tools, High familiarity with Pentaho Data Integration, Database tools Mando DB and Hadoop. Later in the project, Mathematica, possibly Google Maps API. 
      5. In the next two weeks (weeks 4 and 5), how many hours will you spend learning what you need to learn to be able to contribute fully to the project?
           2-4 Hours a week individually, more with group. 
      6. What times have you allocated on your calendar for this learning?
@@ -60,15 +63,24 @@ We will need to know how to use Pentaho, MongoDB, Hadoop, Mathematica
      9. How will you communicate your learning to your team?
           We have a workflow that we have agreed upon, using Trello, google, incentive and text messages
 
-     1. What is your name? Steven Ov
+     1. What is your name? 
+          Steven Ov
      2. In general, how well can you code? Pick one of “real good,” “pretty good,” “okay,” or “not at all.”
+          Pretty good
      3. How many times before have you used tools you are using in this project? For each tool, pick one of “lots and lots,” “a couple times,” “once,” “never,” or “I never even heard of this thing.”
+          Hadoop and MongoDB: a couple of times. Pentaho, Mathematica: Never
      4. To contribute fully to the project, what do you need to learn?
+          Pentaho and Mathematica. Mathematica will come later, but for now I will need to focus on learning Pentaho
      5. In the next two weeks (weeks 4 and 5), how many hours will you spend learning what you need to learn to be able to contribute fully to the project?
+          3 hours each week to learn Pentaho
      6. What times have you allocated on your calendar for this learning?
+          The weekends are free for myself, so I will learn during those times.
      7. Where will you be at those times?
+          Either in my apartment, or in the third floor ICS computer lab
      8. How will you learn what you need to learn? Be as specific as possible. “I will work through Chapters 1–5 of Hello, Android” is much better than “I will do some tutorials about Android programming.”
+          I will follow the tutories that John provided in his section.
      9. How will you communicate your learning to your team?
+          I will offer my services to my teammates when we are working together.
 
      1. What is your name? 
           Ronnie Nguyen
