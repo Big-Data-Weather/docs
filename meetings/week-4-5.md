@@ -1,35 +1,32 @@
-# Week 2 sponsor meeting report
+# Week 4/5 sponsor meeting report
 
 Team Quotaero
 
-Bradley Cruce, John Delshadi, Jeffrey Fellows, Ronnie Ngyuen
+Bradley Cruce, John Delshadi, Jeffrey Fellows, Ronnie Nguyen, Steven Ov
 
 ## Present at meeting
 
+Bradley Cruce, John Delshadi, Jeffrey Fellows, Ronnie Nguyen, Steven Ov, Stew Sutton
+
 ### Sponsors
 
-Kayla James, CEO, Sqrls-R-Us  
-Jeff Smith, Assistant to the CEO, Sqrls-R-Us
+Stew Sutton, Principal Scientist IT Innovation, The Aerospace Corporation   
 
 ### Team
 
-Gavin Chen, Katarzyna Dushkina, Priya Kaur, Jeff Couzin
+Bradley Cruce, John Delshadi, Jeffrey Fellows, Ronnie Nguyen, Steven Ov
 
 ## Time and place
 
-Offices of Sqrls-R-Us, Irvine, CA, Tue Apr 15, 3 PM
+Cha for Tea, Thursday 9:30AM - 10:30AM
+ICS 193, Thursday 9:30AM - 10:30AM
 
-## Business case changes
+## Meeting Summary
 
-+ None.
+### Section 1
+During these meetings, our sponsor explained in further detail some of the tools we might be using for the project. Our Sponsor deemed several new tools necessary to learn for the project and we discussed methods of acquiring and learning these tools. Other than the addition of new possible tools (Wolfram Alpha and IDL) nothing else has changed regarding our project.
 
-## Requirements document changes
-
-+ We decided not to allow people to create user accounts. Instead, all simulated squirrel populations will be public. Visitors to the site will be given a randomly selected population to manipulate. They can play with it for as long as they like, but when they close their browser window they will lose the population. If all populations are currently "assigned", the system will create a new population. As a result, there are no public or private populations; all populations are public.
-
-## Project development and delivery timeline
-
-+ We will deliver the simulation "core" first, by the end of Week 7. We will show Kayla and Jeff weekly progress starting in Week 5.
-+ We will build a simple interactive interface for the simulation in Weeks 8 and 9.
-+ We will add the functionality that randomly assigns a population (or makes a new one) to a visiting user in Week 10.
+### Section 2
+In order for us to learn the tools, our sponsor suggested that we start playing with the data we have as soon as possible because we have almost no experience with these tools. This slightly changed our learning plan and is forcing us to learn a bit quicker than we originally planned. We also just finished registration for our 4-day online Pentaho course and discussed with our sponsor about what we would be learning from the course. The course itself takes place on Week 7 and everyone in our team will be attending it. 
+	
 
