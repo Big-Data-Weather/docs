@@ -6,7 +6,7 @@ Bradley Cruce, Jeffrey Fellows, John Delshadi, Rebecka Goncharov, Ronnie Nguyen,
 
 ## Initial Tasks
 ### Learning
-+ Become familiar with how to compile and IDL code
++ Become familiar with how to compile and run IDL code
 
 ### Set Up/Procurement
 + Finalize server plan of attack
@@ -16,7 +16,7 @@ Bradley Cruce, Jeffrey Fellows, John Delshadi, Rebecka Goncharov, Ronnie Nguyen,
 
 ## Completed 
 ### Learning
-+ Become familiar with how to compile and IDL code
++ Become familiar with how to compile and run IDL code
 
 ### Set Up/Procurement
 + Finalize server plans
